@@ -1,4 +1,4 @@
-package MCOPACK;
+package src;
 
 // GUIAO, Miguel Stephen G. (S22)
 // MOJICA, Harold C.        (S21)
